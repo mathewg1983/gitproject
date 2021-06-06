@@ -1,6 +1,10 @@
 this is the data as a part of the master repo
 
+<<<<<<< HEAD
 this data being added as a part of feature1
 
 this data is being added as an update to feature1
  
+=======
+this data being added as a part of feature1 
+>>>>>>> 34fd0f9cf027fa284ee3afde7949d4d1d976b21a
